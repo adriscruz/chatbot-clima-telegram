@@ -102,6 +102,9 @@ Essas são as duas obrigatórias pela regra do desafio:
 
 As demais (Gemini, OpenAI, OpenRouter, Tavily) ficam nas credenciais do próprio N8N, não precisam virar variável de ambiente.
 
+## Link do BOT no telegram:
+https://t.me/maju_ferrao_clima_bot
+
 ## Avisos finais
 
 O arquivo `workflow-telegram-chatbot.json` desse repositório não contém nenhum token ou segredo real. Se você baixar e importar, vai precisar plugar as tuas próprias chaves, como expliquei acima.
